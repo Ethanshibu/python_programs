@@ -1,7 +1,7 @@
 import numpy
 import matplotlib.pyplot as plt
 
-#data set sample
+#data set example
 
 x = numpy.arange(1,11)
 y = x * 2
