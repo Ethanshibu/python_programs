@@ -6,7 +6,7 @@ n = int(input())
 for i in range(n):
     h = 'H'*(i*2+1)
     print(h.center(n*2-1,' '))
-
+#pillars
 for i in range(n+1):
     print(' '*(n//2)+("H"*n).ljust(n*5//2),("H"*n).rjust(n*5//2))
     
