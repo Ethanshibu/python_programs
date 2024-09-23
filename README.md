@@ -1,1 +1,1 @@
-A Repository to hold python programs
+A Repository to hold python programs and scripts
